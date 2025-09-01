@@ -18,6 +18,10 @@ div.post {
     align-items: center;
 }
 
+.post-header i {
+    color: #000;
+}
+
 i {
     padding-right: 10px;
 }
